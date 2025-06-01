@@ -43,7 +43,7 @@ me.say_hi()
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fzmes&theme=nord&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fzmes&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/Fzmes/Customer_segmentation_analysis">
