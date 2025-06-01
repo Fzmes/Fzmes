@@ -1,6 +1,5 @@
 # Hi there! 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Fzmes.Fzmes)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
@@ -44,8 +43,7 @@ me.say_hi()
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fzmes&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fzmes&theme=nord&column=7)
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/Fzmes/Customer_segmentation_analysis">
