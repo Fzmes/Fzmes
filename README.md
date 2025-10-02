@@ -6,7 +6,7 @@
 <h2 align="center">Data Scientist | Big Data Enthusiast | AI & Cloud Explorer 👩‍💻</h2>
 
 <div align="center">
-  <img height="150" src="img.gif"  />
+  <img height="100" src="img.gif"  />
 </div>
 
 <p align="center">
