@@ -6,7 +6,7 @@
 <h2 align="center">Data Scientist | Big Data Enthusiast | AI & Cloud Explorer 👩‍💻</h2>
 
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTcwNDBzcnB4djF0Nm02N3g4ZHVrbWV2ZG4yeWtndG9wNXA1d2pvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/02YiLD8Xos2LIufycM/giphy.gif"  />
+  <img height="150" src="https://pin.it/2iDox9Uex"  />
 </div>
 
 <p align="center">
