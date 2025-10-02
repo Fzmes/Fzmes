@@ -167,13 +167,6 @@ me.say_hi()
   </a>
 </div>
 
-## 🔧 Technologies & Tools
-
-**Programming Languages:**
-
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
-
 
 <!-- ## &#x1f4c8; GitHub Stats
 
@@ -185,10 +178,10 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
 </a> -->
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fzmes&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-## 🗂️ Highlight Projects
+### 🗂️ Highlight Projects
 
 <a href="https://github.com/Fzmes/Customer_segmentation_analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=Customer_segmentation_analysis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Customer_segmentation_analysis" />
@@ -201,7 +194,7 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=SupplyChain-analysis-and-management&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SupplyChain-analysis-and-management" />
 </a>
 
-## ✨ Fun Facts
+### ✨ Fun Facts
 
 - 🍳 **Hobbies:** Cooking up delicious recipes
 - 💬 **Favorite Quote:**  
