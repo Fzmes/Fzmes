@@ -6,7 +6,7 @@
 <h2 align="center">Data Scientist | Big Data Enthusiast | AI & Cloud Explorer 👩‍💻</h2>
 
 <div align="center">
-  <img height="150" src="https://lottie.host/embed/76018706-7bac-4128-a86c-ae4f58e73d99/OtOSou3IDt.lottie"  />
+  <img height="150" src="img.gif"  />
 </div>
 
 <p align="center">
