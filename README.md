@@ -6,8 +6,7 @@
 <h2 align="center">Data Scientist | Big Data Enthusiast | AI & Cloud Explorer 👩‍💻</h2>
 
 <div align="center">
-  <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.1/dist/dotlottie-wc.js" type="module"></script>
-<dotlottie-wc src="https://lottie.host/76018706-7bac-4128-a86c-ae4f58e73d99/OtOSou3IDt.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
+  <img height="150" src="https://lottie.host/embed/76018706-7bac-4128-a86c-ae4f58e73d99/OtOSou3IDt.lottie"  />
 </div>
 
 <p align="center">
