@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Meskine Fatima Ezzahra👋</h1>
+<h1 align="center">Hi there, I'm Ozizi 👋</h1>
 
 <h2 align="center">Data Scientist | Big Data Enthusiast | AI & Cloud Explorer 👩‍💻</h2>
 
@@ -25,7 +25,7 @@
 class DataScience_AI_Student:
 
     def __init__(self):
-        self.name = "Meskine Fatima Ezzahra "
+        self.name = "ozizi"
         self.role = "Data Science & AI Student"
         self.language_spoken = ["en_US", "ar_MA", "tzm_MA", "fr_FR"]
         self.code_editor = "VSCode"
@@ -192,25 +192,111 @@ me.say_hi()
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Fzmes/Customer_segmentation_analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=Customer_segmentation_analysis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Customer_segmentation_analysis" />
-</a>
+<div align="center">
 
-<a href="https://github.com/Fzmes/Projet_Web-ZingZone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=Projet_Web-ZingZone&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Projet_Web-ZingZone" />
-</a>
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **[Customer Segmentation Analysis](https://github.com/Fzmes/Customer_segmentation_analysis)** | ML-powered customer clustering for targeted marketing | Python, Scikit-learn, Pandas | ✅ Complete |
+| **[ZingZone Web Platform](https://github.com/Fzmes/Projet_Web-ZingZone)** | Full-stack social platform with real-time features | Laravel, MySQL, JavaScript | ✅ Complete |
+| **[Supply Chain Analytics](https://github.com/Fzmes/SupplyChain-analysis-and-management)** | End-to-end supply chain optimization dashboard | Python, Flask, MongoDB | 🚀 Active |
 
-<a href="https://github.com/Fzmes/SupplyChain-analysis-and-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=SupplyChain-analysis-and-management&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SupplyChain-analysis-and-management" />
-</a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Fzmes/Customer_segmentation_analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=Customer_segmentation_analysis&show_icons=true&theme=tokyonight&hide_border=true" alt="Customer Segmentation" />
+  </a>
+  <a href="https://github.com/Fzmes/Projet_Web-ZingZone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=Projet_Web-ZingZone&show_icons=true&theme=tokyonight&hide_border=true" alt="ZingZone" />
+  </a>
+</div>
 
 ###
 
-## 🐍 Contribution Snake
+## 🎓 Certifications & Achievements
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Fzmes/Fzmes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**📜 Current Learning Path:**
+- Advanced Machine Learning (Coursera)
+- Big Data with Apache Spark
+- Cloud Architecture on AWS
+
 </div>
+
+###
+
+## 💡 Key Strengths
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Data Science
+    & AI))
+    Machine Learning
+      Supervised Learning
+      Unsupervised Learning
+      Deep Learning
+    Big Data
+      Real-time Processing
+      Data Pipelines
+      Kafka & Spark
+    Cloud Computing
+      AWS Services
+      Containerization
+      Scalable Architecture
+    Web Development
+      Full Stack
+      RESTful APIs
+      Modern Frameworks
+```
+
+</div>
+
+###
+
+## 💻 Coding Activity & Time Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fzmes&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+</div>
+
+###
+
+## 🎯 Skills Matrix
+
+<div align="center">
+
+| Domain | Technologies | Proficiency |
+|--------|-------------|-------------|
+| **Data Science** | Python, Pandas, NumPy, Scikit-learn | ████████░░ 80% |
+| **Big Data** | Kafka, Cassandra, Spark | ███████░░░ 70% |
+| **Web Development** | React, Flask, Laravel, Node.js | ████████░░ 75% |
+| **Cloud & DevOps** | AWS, Docker | ██████░░░░ 60% |
+| **Databases** | MySQL, MongoDB, Oracle | ████████░░ 80% |
+| **AI/ML** | TensorFlow, OpenCV, Deep Learning | ███████░░░ 65% |
+
+</div>
+
+###
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 30 min  ████████████░░░░░   48.2%
+JavaScript    5 hrs 15 min  █████░░░░░░░░░░░░   20.3%
+Java          3 hrs 45 min  ███░░░░░░░░░░░░░░   14.5%
+SQL           2 hrs 20 min  ██░░░░░░░░░░░░░░░    9.0%
+Docker        1 hr 10 min   █░░░░░░░░░░░░░░░░    4.5%
+Other         0 hrs 55 min  ░░░░░░░░░░░░░░░░░    3.5%
+```
+<!--END_SECTION:waka-->
 
 ###
 
