@@ -234,27 +234,20 @@ me.say_hi()
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Data Science
-    & AI))
-    Machine Learning
-      Supervised Learning
-      Unsupervised Learning
-      Deep Learning
-    Big Data
-      Real-time Processing
-      Data Pipelines
-      Kafka & Spark
-    Cloud Computing
-      AWS Services
-      Containerization
-      Scalable Architecture
-    Web Development
-      Full Stack
-      RESTful APIs
-      Modern Frameworks
-```
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=130&section=header&text=Data%20Science%20%26%20AI%20Engineering&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=55"/>
+
+**🎯 Core Competencies**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Expert-6aa6f8?style=for-the-badge)
+![Big Data](https://img.shields.io/badge/Big_Data-Advanced-6aa6f8?style=for-the-badge)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-Proficient-6aa6f8?style=for-the-badge)
+![Full Stack Dev](https://img.shields.io/badge/Full_Stack-Developer-6aa6f8?style=for-the-badge)
+
+**🔥 Tech Focus Areas:**
+- 🤖 Machine Learning & Deep Learning
+- 📊 Real-time Data Processing (Kafka, Spark)
+- ☁️ Scalable Cloud Architecture (AWS)
+- 🌐 Modern Web Applications (React, Flask, Laravel)
 
 </div>
 
@@ -274,12 +267,12 @@ mindmap
 
 | Domain | Technologies | Proficiency |
 |--------|-------------|-------------|
-| **Data Science** | Python, Pandas, NumPy, Scikit-learn | ████████░░ 80% |
-| **Big Data** | Kafka, Cassandra, Spark | ███████░░░ 70% |
-| **Web Development** | React, Flask, Laravel, Node.js | ████████░░ 75% |
-| **Cloud & DevOps** | AWS, Docker | ██████░░░░ 60% |
-| **Databases** | MySQL, MongoDB, Oracle | ████████░░ 80% |
-| **AI/ML** | TensorFlow, OpenCV, Deep Learning | ███████░░░ 65% |
+| **Data Science** | Python, Pandas, NumPy, Scikit-learn | ![80%](https://progress-bar.dev/80?color=6aa6f8) |
+| **Big Data** | Kafka, Cassandra, Spark | ![70%](https://progress-bar.dev/70?color=6aa6f8) |
+| **Web Development** | React, Flask, Laravel, Node.js | ![75%](https://progress-bar.dev/75?color=6aa6f8) |
+| **Cloud & DevOps** | AWS, Docker | ![60%](https://progress-bar.dev/60?color=6aa6f8) |
+| **Databases** | MySQL, MongoDB, Oracle | ![80%](https://progress-bar.dev/80?color=6aa6f8) |
+| **AI/ML** | TensorFlow, OpenCV, Deep Learning | ![65%](https://progress-bar.dev/65?color=6aa6f8) |
 
 </div>
 
