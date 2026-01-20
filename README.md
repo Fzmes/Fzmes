@@ -253,10 +253,158 @@ me.say_hi()
 
 ###
 
-## 💻 Coding Activity & Time Stats
+## 🎮 Interactive Code Game - Try to Beat My High Score!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fzmes&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+
+### 🕹️ Play Tic-Tac-Toe Right Here!
+
+Click the squares to play! (Updates every time you visit)
+
+[![Tic-Tac-Toe](https://img.shields.io/badge/⬜-⬜-⬜-gray?style=for-the-badge)](https://github.com/Fzmes)
+[![Tic-Tac-Toe](https://img.shields.io/badge/⬜-⬜-⬜-gray?style=for-the-badge)](https://github.com/Fzmes)
+[![Tic-Tac-Toe](https://img.shields.io/badge/⬜-⬜-⬜-gray?style=for-the-badge)](https://github.com/Fzmes)
+
+**Your Move!** Click any badge above to start playing!
+
+---
+
+### 🎲 Random Dev Joke Generator
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</div>
+
+---
+
+### 🎯 Guess My Favorite Language!
+
+<details>
+<summary>🔮 Click to reveal the answer!</summary>
+<br>
+
+```python
+def favorite_language():
+    languages = ["Python", "JavaScript", "Java", "C++"]
+    favorite = "Python"
+    
+    print(f"My favorite is {favorite}! 🐍")
+    print("Because data science is ❤️")
+    
+favorite_language()
+```
+
+**Why Python?**
+- 🚀 Perfect for Data Science & AI
+- 📊 Amazing libraries (Pandas, NumPy, TensorFlow)
+- 🎨 Clean and readable syntax
+- 💪 Versatile for web, ML, and automation
+
+</details>
+
+---
+
+### 🏃‍♀️ Catch the Bug Game!
+
+**Mission:** Find the bug in this code! 
+
+<details>
+<summary>🐛 Click to play - Spot the Bug!</summary>
+
+```python
+def calculate_average(numbers):
+    total = 0
+    for num in numbers:
+        total += num
+    return total / len(numbers)
+
+# Bug is here! 👇
+result = calculate_average([])
+print(result)
+```
+
+<details>
+<summary>💡 Hint</summary>
+What happens when you divide by zero? 🤔
+</details>
+
+<details>
+<summary>✅ Solution</summary>
+
+```python
+def calculate_average(numbers):
+    if len(numbers) == 0:
+        return 0  # Handle empty list!
+    total = 0
+    for num in numbers:
+        total += num
+    return total / len(numbers)
+
+result = calculate_average([])
+print(result)  # Now it works! ✨
+```
+
+**Bug:** Division by zero when list is empty!
+</details>
+
+</details>
+
+---
+
+### 🎰 Random Coding Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+### 🎪 Mystery Code Challenge
+
+<details>
+<summary>🎯 What does this code output? Click to play!</summary>
+
+```python
+def mystery_function(n):
+    if n <= 1:
+        return n
+    return mystery_function(n-1) + mystery_function(n-2)
+
+result = mystery_function(7)
+print(result)
+```
+
+<details>
+<summary>🤔 Make your guess first!</summary>
+
+**Your Options:**
+- A) 13
+- B) 21  
+- C) 34
+- D) 8
+
+</details>
+
+<details>
+<summary>🎉 Click for Answer!</summary>
+
+**Answer: A) 13** 
+
+This is the Fibonacci sequence! 🎊
+- F(0) = 0
+- F(1) = 1
+- F(7) = 13
+
+```
+Sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...
+```
+
+**Did you get it right?** Give yourself a ⭐!
+
+</details>
+
+</details>
+
 </div>
 
 ###
