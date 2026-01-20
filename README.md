@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ozizi 👋</h1>
+<h1 align="center">Hi there, I'm Meskine Fatima Ezzahra👋</h1>
 
 <h2 align="center">Data Scientist | Big Data Enthusiast | AI & Cloud Explorer 👩‍💻</h2>
 
@@ -8,14 +8,14 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=sss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Fzmes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 ###
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-[![Profile Views](https://komarev.com/ghpvc/?username=sss&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/sss)
+[![Profile Views](https://komarev.com/ghpvc/?username=Fzmes&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Fzmes)
 
 ```python
 #!/usr/bin/python
@@ -25,7 +25,7 @@
 class DataScience_AI_Student:
 
     def __init__(self):
-        self.name = "ozizi"
+        self.name = "Meskine Fatima Ezzahra "
         self.role = "Data Science & AI Student"
         self.language_spoken = ["en_US", "ar_MA", "tzm_MA", "fr_FR"]
         self.code_editor = "VSCode"
@@ -56,8 +56,8 @@ me.say_hi()
 ## 📊 Coding Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fzmes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fzmes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 ###
@@ -65,7 +65,7 @@ me.say_hi()
 ## 🔥 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sss&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fzmes&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ###
@@ -177,7 +177,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sss&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Fzmes&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ###
@@ -185,23 +185,23 @@ me.say_hi()
 ## 📈 Productivity Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sss&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fzmes&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 ###
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/sss/Customer_segmentation_analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sss&repo=Customer_segmentation_analysis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Customer_segmentation_analysis" />
+<a href="https://github.com/Fzmes/Customer_segmentation_analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=Customer_segmentation_analysis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Customer_segmentation_analysis" />
 </a>
 
-<a href="https://github.com/sss/Projet_Web-ZingZone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sss&repo=Projet_Web-ZingZone&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Projet_Web-ZingZone" />
+<a href="https://github.com/Fzmes/Projet_Web-ZingZone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=Projet_Web-ZingZone&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Projet_Web-ZingZone" />
 </a>
 
-<a href="https://github.com/sss/SupplyChain-analysis-and-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sss&repo=SupplyChain-analysis-and-management&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SupplyChain-analysis-and-management" />
+<a href="https://github.com/Fzmes/SupplyChain-analysis-and-management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=SupplyChain-analysis-and-management&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SupplyChain-analysis-and-management" />
 </a>
 
 ###
@@ -209,7 +209,7 @@ me.say_hi()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sss/sss/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Fzmes/Fzmes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ###
