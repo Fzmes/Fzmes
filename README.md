@@ -1,7 +1,4 @@
-###
-
-<h1 align="center">Hi there, I'm Meskine Fatima Ezzahra 👋</h1>
-
+<h1 align="center">Hi there, I'm Ozizi 👋</h1>
 
 <h2 align="center">Data Scientist | Big Data Enthusiast | AI & Cloud Explorer 👩‍💻</h2>
 
@@ -11,14 +8,14 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Fzmes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=sss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
-
-
 ###
+
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Profile Views](https://komarev.com/ghpvc/?username=sss&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/sss)
 
 ```python
 #!/usr/bin/python
@@ -28,17 +25,24 @@
 class DataScience_AI_Student:
 
     def __init__(self):
-        self.name = "Meskine Fatima Ezzahra"
+        self.name = "ozizi"
         self.role = "Data Science & AI Student"
         self.language_spoken = ["en_US", "ar_MA", "tzm_MA", "fr_FR"]
-
+        self.code_editor = "VSCode"
+        self.current_focus = ["Big Data", "Cloud Computing", "AI/ML"]
+        
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
+    
+    def get_daily_knowledge(self):
+        topics = ['Python', 'Data Engineering', 'Cloud Architecture', 'Machine Learning']
+        return f"Currently mastering: {topics}"
 
 
 me = DataScience_AI_Student()
 me.say_hi()
 ```
+
 ###
 
 <h2 align="left">🙋‍♀️  About Me</h2>
@@ -46,6 +50,23 @@ me.say_hi()
 ###
 
 <p align="left">🔍 I'm an aspiring Data Science & AI Engineer with a strong passion for Big Data technologies, scalable data pipelines, and AI-powered solutions.<br><br>🎓 Engineering Student at ENSIASD Taroudant  <br>💡 Currently building real-time data platforms during my internship at Prodigy InfoTech  <br>🚀 Always learning new tools in Cloud & Machine Learning </p>
+
+###
+
+## 📊 Coding Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</div>
+
+###
+
+## 🔥 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sss&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
 
 ###
 
@@ -153,64 +174,65 @@ me.say_hi()
 
 ###
 
+## 🏆 GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sss&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
 
+###
+
+## 📈 Productivity Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sss&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+
+###
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/sss/Customer_segmentation_analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sss&repo=Customer_segmentation_analysis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Customer_segmentation_analysis" />
+</a>
+
+<a href="https://github.com/sss/Projet_Web-ZingZone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sss&repo=Projet_Web-ZingZone&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Projet_Web-ZingZone" />
+</a>
+
+<a href="https://github.com/sss/SupplyChain-analysis-and-management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sss&repo=SupplyChain-analysis-and-management&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SupplyChain-analysis-and-management" />
+</a>
+
+###
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sss/sss/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fatima-ezzahra-meskine/" target="_blank">
+  <a href="https://www.linkedin.com/in/kkkk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="linkedin logo"  />
   </a>
-  <a href="meskinefatimaezzahra@gmail.com" target="_blank">
+  <a href="mailto:lllsk@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="gmail logo"  />
   </a>
 </div>
 
-
-<!-- ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a>
-
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a> -->
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fzmes&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-### 🗂️ Highlight Projects
-
-<a href="https://github.com/Fzmes/Customer_segmentation_analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=Customer_segmentation_analysis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Customer_segmentation_analysis" />
-</a>
-
-<a href="https://github.com/Fzmes/Projet_Web-ZingZone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=Projet_Web-ZingZone&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Projet_Web-ZingZone" />
-</a>
-<a href="https://github.com/Fzmes/SupplyChain-analysis-and-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=SupplyChain-analysis-and-management&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SupplyChain-analysis-and-management" />
-</a>
+###
 
 ### ✨ Fun Facts
 
 - 🍳 **Hobbies:** Cooking up delicious recipes
 - 💬 **Favorite Quote:**  
-  > “Never underestimate any work, no matter how small.”
+  > "Never underestimate any work, no matter how small."
 
-<!--
-**Fzmes/Fzmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
