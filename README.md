@@ -182,23 +182,21 @@ me.say_hi()
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fzmes&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 ### 🗂️ Highlight Projects
+
+<a href="https://github.com/Fzmes/Summarease-Pro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=Summarease-Pro&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Summarease-Pro" />
+</a>
+
 <a href="https://github.com/Fzmes/Benchmarking-of-Rainfall-Prediction-Models-in-the-Taroudant-Region-of-Morocco">
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=Benchmarking-of-Rainfall-Prediction-Models-in-the-Taroudant-Region-of-Morocco&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Benchmarking-of-Rainfall-Prediction-Models-in-the-Taroudant-Region-of-Morocco" />
 </a>
-<a href="https://github.com/Fzmes/Summarease-Pro"></a>
-<a href="">
-
-</a>
-
-
 <a href="https://github.com/Fzmes/Customer_segmentation_analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=Customer_segmentation_analysis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Customer_segmentation_analysis" />
 </a>
 <a href="https://github.com/Fzmes/SupplyChain-analysis-and-management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fzmes&repo=SupplyChain-analysis-and-management&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SupplyChain-analysis-and-management" />
+</a>
 
-</a>
-<a href="https://github.com/Fzmes/Projet_Web-ZingZone">
- 
-</a>
 
 
 
